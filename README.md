@@ -37,4 +37,12 @@ https://www.bilibili.com/video/BV1aX4y1N7fi?p=31
 
 ![屏幕截图 2021-08-30 162724](https://user-images.githubusercontent.com/63625631/131310077-724d9e2a-5510-4745-9c68-b00fc910df61.jpg)
 
+6. 2nd input to Pop Wrangle:
+
+![屏幕截图 2021-08-30 164046](https://user-images.githubusercontent.com/63625631/131312326-a55c004a-0edd-47b6-8510-659a6b6e1df3.jpg)
+
+![屏幕截图 2021-08-30 164027](https://user-images.githubusercontent.com/63625631/131312339-535a7cfc-5e1f-4f3f-8ef2-6c76a80b9f11.jpg)
+
+![屏幕截图 2021-08-30 164106](https://user-images.githubusercontent.com/63625631/131312345-9543600a-5301-432a-b00e-67fe52d7082f.jpg)
+
 
